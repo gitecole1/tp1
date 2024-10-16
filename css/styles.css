@@ -17,11 +17,13 @@ table, td, th {
 .lien{
    font-size: large;
    list-style: none;
+   font-weight:600;
    
 }
 
 .taille{
-   font-weight: bold;
+   font-weight:600;
+
 }
 
 
@@ -60,12 +62,13 @@ margin-left:300px;
  .photoacteur1{
     width: 80px;
     height: 80px;
-    margin: 10px;
+    margin: 20px;
     border-radius: 40px;
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
     background-image: url(../images/Chris_Evans.png);
+    
     
  }
 
@@ -75,7 +78,7 @@ margin-left:300px;
    content: none;
    position: absolute;
    left: 917px;
-   right: 369px;  
+   right: 336px;  
  }
 
 
@@ -87,7 +90,7 @@ margin-left:300px;
  .photoacteur2{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -99,7 +102,7 @@ margin-left:300px;
 .photoacteur3{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -111,7 +114,7 @@ margin-left:300px;
 .photoacteur4{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -123,7 +126,7 @@ margin-left:300px;
 .photoacteur5{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -135,7 +138,7 @@ margin-left:300px;
 .photoacteur6{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -147,7 +150,7 @@ margin-left:300px;
 .photoacteur7{
    width: 80px;
    height: 80px;
-   margin: 10px;
+   margin: 5px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
