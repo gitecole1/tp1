@@ -18,12 +18,12 @@ table, td, th {
    font-size: large;
    list-style: none;
    font-weight:600;
-   
+   text-align:left;
 }
 
 .taille{
    font-weight:600;
-
+   padding-top: 6px;
 }
 
 
