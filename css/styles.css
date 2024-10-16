@@ -15,6 +15,8 @@ ol{
 table, td, th {
     
     text-align:left;
+    padding-right: 15px;
+    margin: 5px;
     
 }
 
@@ -66,12 +68,12 @@ margin-left:300px;
  .photoacteur1{
     width: 80px;
     height: 80px;
-    margin: 20px;
+    margin: 15px;
     border-radius: 40px;
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 8px;
     background-image: url(../images/Chris_Evans.png);
     
     
@@ -83,7 +85,7 @@ margin-left:300px;
    content: none;
    position: absolute;
    left: 917px;
-   right: 336px;  
+   right: 299px;  
  }
 
 
@@ -95,7 +97,7 @@ margin-left:300px;
  .photoacteur2{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -107,7 +109,7 @@ margin-left:300px;
 .photoacteur3{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -119,7 +121,7 @@ margin-left:300px;
 .photoacteur4{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -131,7 +133,7 @@ margin-left:300px;
 .photoacteur5{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -143,7 +145,7 @@ margin-left:300px;
 .photoacteur6{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
@@ -155,7 +157,7 @@ margin-left:300px;
 .photoacteur7{
    width: 80px;
    height: 80px;
-   margin: 5px;
+   margin: 4px;
    border-radius: 40px;
    background-size: cover;
    background-repeat: no-repeat;
